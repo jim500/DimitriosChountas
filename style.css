@@ -7,6 +7,10 @@
     }
     /* End Main body */
     /* Start Navbar */
+        
+   html {
+    scroll-behavior: smooth;
+}     
     
     #navbar {
         position: fixed;
