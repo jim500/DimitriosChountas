@@ -1,0 +1,1 @@
+var scroll = new SmoothScroll(',nav-a a[href*="#"]');
